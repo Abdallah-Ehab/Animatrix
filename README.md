@@ -1,4 +1,4 @@
-# Animatrix Studio — Agent Briefing
+# Animatrix Studio — Vibe Coded
 
 > **What you are building:** A browser-based animation and scientific-visualization authoring tool inspired by 3Blue1Brown's *manim* library but delivered as a **no-code, visual, timeline-driven web app**. Users design scenes with primitive and CS/science shapes, build charts, draw custom brushwork, animate everything frame-by-frame, then export a high-quality video file.
 
